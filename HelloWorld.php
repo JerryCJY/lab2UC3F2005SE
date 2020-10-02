@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Example</title>
+        <title>Examples</title>
     </head>
     <body>
         <p>This is an example of a simple HTML page with one paragraph.</p>
